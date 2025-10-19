@@ -1,7 +1,7 @@
 Hi, so I am aroderg - a dragon who likes coding, idle games, FPS games, and repeating all that from step 1.\
 \
-I use Lua and (sometimes) Python for most of my projects. The type of apps I make are games (and sorta libraries I guess?)\
-\
+I use Lua and (sometimes) Python for most of my projects. The type of apps I make are games (and sorta libraries I guess?)
+
 # My projects I am (actually) proud of:
 
 ## [Nox Tower Defense](https://github.com/aroderg/Nox-Tower-Defense):
