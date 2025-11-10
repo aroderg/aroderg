@@ -24,8 +24,9 @@ NoxOS is a meta / simulation game about evolving an operating system through ver
 Data Incremental is a Lua + LOVE-engine idle/strategy game where your goal is to accumulate data and unlock ever more advanced technologies as you climb through orders of magnitude. You start small, storing bits and bytes, and gradually master systems like multiprocessing, efficiency upgrades, data cascades, binary encoding, etc., eventually pushing your empire of information toward absurd scale.
 <br clear="left" />
 
-## And here are my GitHub stats if you want:
-[![github stats](https://github-readme-stats.vercel.app/api?username=aroderg)](https://github.com/anuraghazra/github-readme-stats)</p>
+## And my GitHub stats
+[![github stats](https://github-readme-stats.vercel.app/api?username=aroderg&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroderg&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aroderg/aroderg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
