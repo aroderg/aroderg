@@ -21,7 +21,7 @@ Haiiiiii, I'm **Aria**, a dragon with a keyboard and internet.
 ---
 
 <details>
-<summary><h1>Online Info (contributions, etc)</h1></summary>
+<summary><h1>Contributions & Activity</h1></summary>
   
 * **What I do online:** mostly **coding**, **idle**, **FPS** games and 🧗‍♂️ **JToH** *(esp. recently)*.
 * **Gameplay Loops:** I love making endless-loop games (like **NoxTD**) reward grinding and makes you think the game is a journey.
