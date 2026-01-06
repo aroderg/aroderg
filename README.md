@@ -3,7 +3,7 @@
 Haiiiiii, I'm **Aria**, a dragon with a keyboard and internet.
 * 👩🏫 16 y/o | ♍ Virgo | 🇺🇦 From Ukraine, currently in Greece.
 * **Pronouns Set:** I mainly use **she/her**, **they/them**, **vi/vir**, **it/its**, and **any** others you feel fit! ❌ Do **not** use **he/him** intentionally or refer to me by my legal name, though 😐.
-* **OS:** Dual-booting 💠 **Kubuntu 24.04** & 🪟 **Windows 11 IoT Enterprise LTSC**, although I barely use Windows anymore.
+* **OS:** 💠 **Kubuntu 24.04**.
 * **Discord:** 🗨️ My Discord is `aroderg`, feel free to add me as long as you're not a spam account.
 * **DM Status**: 📩 DMs open for basically anything, although idle some of the time and eeping at night.
   
@@ -13,7 +13,7 @@ Haiiiiii, I'm **Aria**, a dragon with a keyboard and internet.
 <summary><h1><sub>(Queer)</sub> Identity</h1></summary>
 
 * **Gender Labels:** I'm **demigirl** and 🏳️‍⚧️ **transfem**. No, not a femboy. <sub>Although I might be genderfluid.</sub>
-* **Relationship Labels:** I'm **polysexual**, **polyromantic**, and **sapphic** (*taken*).
+* **Relationship Labels:** I'm **polysexual**, **polyromantic**, and **sapphic**.
 * *[[Here's the (almost) full list of labels I use!]](https://en.pronouns.page/@aroderg)*
 
 </details>
@@ -24,7 +24,7 @@ Haiiiiii, I'm **Aria**, a dragon with a keyboard and internet.
 <summary><h1>Contributions & Activity</h1></summary>
   
 * **What I do online:** mostly **coding**, **idle**, **FPS** games and 🧗‍♂️ **JToH** *(esp. recently)*.
-* **Gameplay Loops:** I love making endless-loop games (like **NoxTD**) reward grinding and makes you think the game is a journey.
+* **Gameplay Loops:** I love making endless-loop games (like **NoxTD**) that reward grinding and makes you think the game is a journey.
 * **Languages/Frameworks:** Coded primarily in **Lua** (using the **LOVE2d** framework).
 
 </details>
