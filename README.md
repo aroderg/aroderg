@@ -2,7 +2,6 @@
 
 Haiiiiii, I'm **aroderg**, a dragon with a keyboard and internet.
 * 👩🏫 16 y/o | ♍ Virgo | 🇺🇦 From Ukraine, currently in Greece.
-* **Pronouns Set:** **he/him**. Though I don't care much, just be respectful to me.
 * **OS:** 💠 **Kubuntu 24.04**.
 * **Discord:** 🗨️ My Discord is `aroderg`, feel free to add me as long as you're not a spam account.
 * **DM Status**: 📩 DMs open for basically anything, although idle some of the time and eeping at night.
