@@ -2,7 +2,7 @@
 
 Hello, I'm **aroderg**, a dragon with a keyboard and internet.
 * 👩🏫 16 y/o | ♍ Virgo | 🇺🇦 From Ukraine, currently in Greece.
-* **Pronouns**: Only he/him, since I am a male.
+* **Pronouns**: she/her :3
 * **OS:** 💠 **Kubuntu 24.04**.
 * **Discord:** 🗨️ My Discord is `aroderg`, feel free to add me as long as you're not a spam account.
 * **DM Status**: 📩 DMs open for basically anything, although idle some of the time and eeping at night.
@@ -12,7 +12,7 @@ Hello, I'm **aroderg**, a dragon with a keyboard and internet.
 <details>
 <summary><h1>Contributions & Activity</h1></summary>
   
-* **What I do online:** mostly **coding**, **idle**, **FPS** games and 🧗‍♂️ **JToH** *(esp. recently)*.
+* **What I do online:** mostly **coding**, **idle**, **FPS** games.
 * **Gameplay Loops:** I love making endless-loop games (like **NoxTD**) that reward grinding and makes you think the game is a journey.
 * **Languages/Frameworks:** Coded primarily in **Lua** (using the **LOVE2d** framework).
 
@@ -25,7 +25,6 @@ Hello, I'm **aroderg**, a dragon with a keyboard and internet.
 
 * **My Hub:** You can explore my projects and intro at 🔗 **https://aroderg.github.io**.
 * **Code & Projects:** You can freely see what I'm currently working on at 😺 **https://github.com/aroderg**.
-* **Nox Tower Defense:** Join the Discord at 💬 **https://discord.gg/V576eHJQH3** to talk about the best game ever: NoxTD! Maybe other topics too.
 
 </details>
 
