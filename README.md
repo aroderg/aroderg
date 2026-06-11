@@ -1,19 +1,15 @@
-# **🌸 Meet aroderg 💫**
+# **Hi, I'm Maksym**
 
-Hello, I'm **aroderg**, a dragon with a keyboard and internet.
-* 👩🏫 16 y/o | ♍ Virgo | 🇺🇦 From Ukraine, currently in Greece.
-* **Pronouns**: she/her :3
-* **OS:** 💠 **Kubuntu 24.04**.
-* **Discord:** 🗨️ My Discord is `aroderg`, feel free to add me as long as you're not a spam account.
-* **DM Status**: 📩 DMs open for basically anything, although idle some of the time and eeping at night.
+I am a dev who plays too much Minecraft and codes datapacks
+* ♂️16y/o | ♍Virgo | 🇺🇦 Ukrainian | 🐧Kubuntu 24.04
 
 ---
 
 <details>
-<summary><h1>Contributions & Activity</h1></summary>
+<summary><h1>Activity</h1></summary>
   
-* **What I do online:** mostly **coding**, **idle**, **FPS** games.
-* **Gameplay Loops:** I love making endless-loop games (like **NoxTD**) that reward grinding and makes you think the game is a journey.
+* **What I do online:** mostly coding, idle, and FPS games.
+* **Gameplay Loops:** I love making endless-loop games (like NoxTD) that reward grinding and makes you think the game is a journey.
 * **Languages/Frameworks:** Coded primarily in **Lua** (using the **LOVE2d** framework).
 
 </details>
@@ -23,8 +19,8 @@ Hello, I'm **aroderg**, a dragon with a keyboard and internet.
 <details>
 <summary><h1>Links & To-Dos</h1></summary>
 
-* **My Hub:** You can explore my projects and intro at 🔗 **https://aroderg.github.io**.
-* **Code & Projects:** You can freely see what I'm currently working on at 😺 **https://github.com/aroderg**.
+* **My Website:** You can explore my intro at 🔗 **https://aroderg.github.io**.
+* **Projects:** You can freely see what I'm currently working on at 😺 **https://aroderg.github.io/projects**.
 
 </details>
 
