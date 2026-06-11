@@ -1,6 +1,6 @@
-# **Hi, I'm Maksym**
+# **Hi, I'm Maksym!**
 
-I am a dev who plays too much Minecraft and codes datapacks
+I am a dev building endless gameplay loops in Lua (LOVE2D) and tweaking Minecraft stuff with datapacks.
 * ♂️16y/o | ♍Virgo | 🇺🇦 Ukrainian | 🐧Kubuntu 24.04
 
 ---
