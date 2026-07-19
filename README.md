@@ -1,7 +1,7 @@
 # **Hi, I'm Maksym!**
 
 I am a dev building endless gameplay loops in Lua (LOVE2D) and tweaking Minecraft stuff with datapacks.
-* ♀️16 | ♍Virgo | 🇺🇦 Ukrainian | 🐧Kubuntu 24.04
+* 16 | 🦊(Arctic) Fox | ♍Virgo | 🇺🇦 Ukrainian | 🐧Kubuntu 24.04
 
 ---
 
