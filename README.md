@@ -1,27 +1,23 @@
-# **Hi, I'm Maksym!**
+# Hi, I'm Maksym! 👋
 
-I am a dev building endless gameplay loops in Lua (LOVE2D) and tweaking Minecraft stuff with datapacks.
-* 16 | 🦊(Arctic) Fox | ♍Virgo | 🇺🇦 Ukrainian | 🐧Kubuntu 24.04
-
----
-
-<details>
-<summary><h1>Activity</h1></summary>
-  
-* **What I do online:** mostly coding, idle, and FPS games.
-* **Gameplay Loops:** I love making endless-loop games (like NoxTD) that reward grinding and makes you think the game is a journey.
-* **Languages/Frameworks:** Coded primarily in **Lua** (using the **LOVE2d** framework).
-
-</details>
+I'm a game and systems developer focusing on endless gameplay loops in **Lua (LÖVE2D)**, dev tooling, and **Minecraft datapacks**.
 
 ---
 
-<details>
-<summary><h1>Links & To-Dos</h1></summary>
+### 🛠️ Tech & Tools
+* **Languages & Tools:** Lua, Rust, Minecraft Datapacks / JSON
+* **Frameworks:** LÖVE2D
+* **OS / Environment:** Linux (Kubuntu)
 
-* **My Website:** You can explore my intro at 🔗 **https://aroderg.github.io**.
-* **Projects:** You can freely see what I'm currently working on at 😺 **https://aroderg.github.io/projects**.
+---
 
-</details>
+### 🚀 Projects
+* **[Nox-Tower-Defense](https://github.com/aroderg/Nox-Tower-Defense)** – Endless-loop tower defense game built with LÖVE2D.
+* **[My Portfolio](https://aroderg.github.io)** – Learn more about my projects and current work.
 
-**07.02.2025** 🪼
+---
+
+### 📬 Connect With Me
+* **Website:** [aroderg.github.io](https://aroderg.github.io)
+* **Projects:** [aroderg.github.io/projects](https://aroderg.github.io/projects)
+* **Discord:** `@aroderg`
